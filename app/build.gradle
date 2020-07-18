@@ -71,7 +71,7 @@ dependencies {
     implementation 'com.github.jeancsanchez:JcPlayer:2.6.16'
     implementation 'com.github.halilozercan:BetterVideoPlayer:kotlin-SNAPSHOT'
 
-//    implementation(name: 'arlib', ext: 'aar')
+    implementation(name: 'arlib', ext: 'aar')
     implementation 'androidx.core:core-ktx:1.2.0'
     implementation 'com.google.android.material:material:1.1.0'
     implementation 'com.google.ar.sceneform.ux:sceneform-ux:1.15.0'
